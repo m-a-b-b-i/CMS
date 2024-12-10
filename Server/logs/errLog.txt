@@ -1,0 +1,5 @@
+20221221	20:28:58	5cc45b61-40ae-45ef-b251-b5a424a606c2	Error: Not allowed by CORS
+20221222	17:52:17	e861debe-2c24-49f3-9c36-97396c598cf0	ReferenceError: length is not defined
+20221222	17:57:47	9fb81b62-748c-4e43-a4ca-5e7401de68c1	TypeError: Cannot read properties of undefined (reading 'id')
+20221224	19:49:27	f5c2ebf6-5b84-4a87-904f-dbb9ab7d140a	TypeError: Cannot read properties of undefined (reading 'username')
+20221224	19:51:38	2f5eacd8-a44a-4947-a4dd-33f835fb794b	TypeError: Cannot read properties of undefined (reading 'username')
